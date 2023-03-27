@@ -1,0 +1,17 @@
+S/S و+/CONJ ال+ فرق/DET+NOUN-MS بين/NOUN-MS وصف/NOUN-MS ال+ أفعال/DET+NOUN-MP ب+/PREP ال+ خير/DET+NOUN-MS و+/CONJ ال+ شر/DET+NOUN-MS و+/CONJ بين/NOUN-MS وصف/NOUN-MS +ها/PRON E/E 
+S/S ب+/PREP ال+ حسن/DET+NOUN-MS و+/CONJ ال+ قبح/DET+NOUN-MS أن/PART وصف/V +ها/PRON ب+/PREP ال+ خير/DET+NOUN-MS و+/CONJ ال+ شر/DET+NOUN-MS إن/PART +ا/PRON هو/PRON من/PART حيث/PART أثر/V +ها/PRON في/PREP E/E 
+S/S نظر/NOUN-MS ال+ إنسان/DET+NOUN-MS »/PUNC و+/CONJ +من/PART حيث/PART ال+ إقدام/DET+NOUN-MS علي/PREP +ها/PRON و+/CONJ ال+ إحجام/DET+NOUN-MS عنهاء/NOUN-FS ف+/CONJ ال+ إنسان/DET+NOUN-MS E/E 
+S/S أطلق/V على/PREP ما/PART يضر/V +ه/PRON أو/CONJ ما/PART يكره/V +ه/PRON من/PREP ال+ أفعال/DET+NOUN-MP ب+/PREP أن/PART +ه/PRON شر/NOUN-MS ؛/PUNC و+/CONJ أطلق/V على/PREP E/E 
+S/S ما/PART ينفع/V +ه/PRON و+/CONJ +ما/PART يحب/V +ه/PRON من/PREP ال+ أفعال/DET+NOUN-MP ب+/PREP أن/PART +ه/PRON خير/ADJ-MS من/PREP أثر/NOUN-MS ذلك/PRON علي/PREP +ه/PRON ب+/PREP غض/NOUN-MS E/E 
+S/S ال+ نظر/DET+NOUN-MS عن/PREP ال+ حسن/DET+NOUN-MS و+/CONJ ال+ قبح/DET+NOUN-MS ف+/CONJ إن/PART +ه/PRON ليس/V وارد/ADJ-MS +ا/CASE عند/NOUN-MS +ه/PRON في/PREP هذه/PRON ال+ حال +ة/DET+NOUN+NSUFF-FS »/PUNC و+/CONJ بناء/NOUN-MS E/E 
+S/S على/PREP هذه/PRON ال+ نظر +ة/DET+NOUN+NSUFF-FS يقدم/V على/PREP ال+ فعل/DET+NOUN-MS و+/CONJ يحجم/V عن/PREP +ه/PRON »/PUNC ف+/CONJ جاء/V ال+ تصحيح/DET+NOUN-MS ل+/PREP هذه/PRON E/E 
+S/S ال+ نظر +ة/DET+NOUN+NSUFF-FS ب+/PREP أن/PART ال+ فعل/DET+NOUN-MS لا/PART يقال/V إن/PART +ه/PRON خير/NOUN-MS أو/CONJ شر/NOUN-MS حسب/NOUN-MS ال+ كراهي +ة/DET+NOUN+NSUFF-FS و+/CONJ ال+ حب/DET+NOUN-MS أو/CONJ E/E 
+S/S ال+ نفع/DET+NOUN-MS و+/CONJ ال+ ضر/DET+NOUN-MS »/PUNC و+/CONJ إتا/V قياس/NOUN-MS كون/NOUN-MS +ه/PRON خير/ADJ-MS +ا/CASE أو/CONJ شر/NOUN-MS +ا/CASE هو/PRON مرض +ة/NOUN+NSUFF-FD الله/NOUN-MS تعالى/V ./PUNC ف+/CONJ هنا/ADV E/E 
+S/S ال+ بحث/DET+NOUN-MS من/PREP حيث/PART مقياس/NOUN-MS ال+ خير/DET+NOUN-MS و+/CONJ ال+ شر/DET+NOUN-MS الذي/PART تعارف/V ال+ ناس/DET+NOUN-MS علي/PREP +ه/PRON E/E 
+S/S و+/CONJ ليس/V من/PREP حيث/PART ال+ فعل/DET+NOUN-MS نفس/NOUN-MS +ه/PRON ./PUNC E/E 
+
+S/S أما/PART وصف/NOUN-MS ال+ أفعال/DET+NOUN-MP ب+/PREP ال+ حسن/DET+NOUN-MS و+/CONJ ال+ قبح/DET+NOUN-MS ف+/CONJ إن/PART +ه/PRON من/PREP حيث/PART ال+ حكم/DET+NOUN-MS E/E 
+S/S علي/PREP +ها/PRON من/PREP قبل/NOUN-MS ال+ إنسان/DET+NOUN-MS و+/CONJ +من/PART حيث/PART ال+ عقاب/DET+NOUN-MS و+/CONJ ال+ ثواب/DET+NOUN-MS عليهاء/NOUN-MS ف+/PART ال+ إنسان/DET+NOUN-MS E/E 
+S/S أعطى/V نفس/NOUN-MS +ه/PRON صلاحي +ة/NOUN+NSUFF-FS ال+ حكم/DET+NOUN-MS على/PREP ال+ فعل/DET+NOUN-MS ب+/PREP أن/PART +ه/PRON حسن/NOUN-MS أو/CONJ قبيح/ADJ-MS قياس/NOUN-MS +ا/CASE E/E 
+S/S على/PREP ال+ أشياءء/DET+NOUN-MS ؛/PUNC ف+/CONJ إن/PART +ه/PRON ل+/PREP +ما/PART وجد/V أن/PART +ه/PRON استطاع/V أن/PART يحكم/V على/PREP ال+ شيء/DET+NOUN-MS ال+ مر/DET+ADJ-MS E/E 
+S/S ب+/PREP أن/PART +ه/PRON قبيح/ADJ-MS و+/CONJ على/PREP ال+ شيء/DET+NOUN-MS ال+ حلو/DET+ADJ-MS ب+/PREP أن/PART +ه/PRON حسنء/NOUN-MS و+/CONJ على/PREP ال+ شكل/DET+NOUN-MS ال+ بشع/DET+ADJ-MS ب+/PREP أن/PART +ه/PRON E/E
